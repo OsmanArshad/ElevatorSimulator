@@ -5,3 +5,4 @@ This is a CSIM program that models the usage of multiple elevators in a multi-st
 I used the rate of people using the elevator in Wingston Chung Hall at UC Riverside over the course of 3 hours to come up with a rate to spawn elevator passengers.
 
 ## Output
+![elevatorsimulatoroutput](https://user-images.githubusercontent.com/35906533/35829265-2c51c8f8-0a77-11e8-8b59-9d85c27a2efe.PNG)
