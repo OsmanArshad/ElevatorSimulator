@@ -6,3 +6,7 @@ I used the rate of people using the elevator in Wingston Chung Hall at UC Rivers
 
 ## Output
 ![elevatorsimulatoroutput](https://user-images.githubusercontent.com/35906533/35829265-2c51c8f8-0a77-11e8-8b59-9d85c27a2efe.PNG)
+
+## Notes
+Requires CSIM installed for compilation, the command for compile then is:
+g++ -o ElevatorSimulator --std=c++11 -DCPP -DGPP -I/usr/csshare/pkgs/csim_cpp-19.0/lib -m32 /usr/csshare/pkgs/csim_cpp-19.0/lib/csim.cpp.a -l
